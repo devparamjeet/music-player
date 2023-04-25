@@ -32,6 +32,11 @@ const songList = [
         cover: "./assets/images/chillhop-2.jpg"
     },
     {
+        name: "Nainowale Ne",
+        source: "./assets/music/Nainowale Ne.mp3",
+        cover: "./assets/images/naino.jpeg"
+    },
+    {
         name: "Shaam Bhi Khoob Hai",
         source: "./assets/music/Shaam Bhi Khoob Hai.mp3",
         cover: "./assets/images/chillhop.jpg"
